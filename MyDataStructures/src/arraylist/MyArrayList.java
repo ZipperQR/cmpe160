@@ -10,6 +10,7 @@ import javax.naming.SizeLimitExceededException;
 import acm.graphics.GLabel;
 import acm.graphics.GOval;
 import acm.graphics.GRect;
+import arraylist.MyCanvas;
 
 
 public class MyArrayList  {
